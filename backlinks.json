@@ -1,16 +1,9 @@
 {
 "items":[
 {
-"name": "Google",
-"url":"https://google.com"
-},
-{
-"name": "Google",
-"url":"https://google.com"
-},
-{
-"name": "Google",
-"url":"https://google.com"
+"name": "Mass Ping",
+"url":"http://www.mass-ping.com/",
+"logo":"http://mass-ping.com/images/logo.png"
 }
 ]
 }
