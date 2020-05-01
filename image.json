@@ -6,6 +6,34 @@
   "logo": "https://i0.wp.com/www.ecommerce-nation.com/wp-content/uploads/2018/01/Sans-titre-2.png?resize=1280%2C640&ssl=1",
   "details": "Thumbnail & Design presentations, social media graphics,\nand more with thousands of beautiful layouts.",
   "browser": "true"
+},
+{
+  "name": "Pixlr - Photo Editor",
+  "url": "https://pixlr.com/e/",
+  "logo": "https://pixlr.com/images/pixlr-header-logo.png",
+  "details": "Pixlr is a free online photo editor right in your browser. Experience next level, intuitive photo editing with AI-powered tools for quick yet professional edits.",
+  "browser": "true"
+},
+{
+  "name": "Freepik",
+  "url": "https://www.freepik.com/",
+  "logo": "https://www.freepik.com/blog/app/uploads/2018/07/Post-Freepik-Cabecera.jpg",
+  "details": "Freepik is a source for free vectors, PSDs, icons, and photos. The platform uploads over 80 000 exclusive free resources every month, designed by Freepik's team or the community of graphic designers and vector artists contributors.",
+  "browser": "true"
+},
+{
+  "name": "Snapseed",
+  "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+  "logo": "https://lh3.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw=s180-rw",
+  "details": "Snapseed is a photo-editing application produced by Nik Software, now owned by Google, for iOS and Android that enables users to enhance photos and apply digital filters",
+  "browser": "true"
+},
+{
+  "name": "Adobe Photoshop",
+  "url": "https://play.google.com/store/apps/details?id=com.adobe.psmobile",
+  "logo": "https://lh3.googleusercontent.com/pPaUu-NhKVCJMEXPYC_IKalgi72j67v5RvRX5GX5TH6f4acnRb3un2WQes8Cs4-Z17xx=s180-rw",
+  "details": "Photoshop delivers a full spectrum of tools and effects at your fingertips. Personalize your experiences with sticker makers, enhance color gradients and imagery, create pic collages, generate memes, make quick fixes and heighten your share-worthy moments.",
+  "browser": "true"
 }
 ]
 }
