@@ -3,17 +3,23 @@
 {
 "name": "Mass Ping",
 "url":"http://www.mass-ping.com/",
-"logo":"http://mass-ping.com/images/logo.png"
+"logo":"http://mass-ping.com/images/logo.png",
+"details":"none",
+"browser": false
 },
   {
 "name": "BackLinkPing",
 "url":"https://www.backlinkping.com/en/online-ping-website-tool",
-"logo":"https://www.backlinkping.com/uploads/5947149_backlink-ping-logo.png"
+"logo":"https://www.backlinkping.com/uploads/5947149_backlink-ping-logo.png",
+"details":"none",
+"browser": false
 },
   {
 "name": "Mass Ping",
 "url":"http://www.mass-ping.com/",
-"logo":"http://mass-ping.com/images/logo.png"
+"logo":"http://mass-ping.com/images/logo.png",
+"details":"none",
+"browser": false
 }
 ]
 }
