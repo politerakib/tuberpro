@@ -4,24 +4,73 @@
 "name": "TubeBuddy",
 "url":"https://www.tubebuddy.com/",
 "logo":"https://yt3.ggpht.com/a/AATXAJyzCfOqGFbN8Djj-ETt7sRMCNY58AxsALf3kQ=s288-c-k-c0xffffffff-no-rj-mo",
-"details": "TubeBuddy is a research and planning tool for YouTube creators. The software connects directly to your YouTube account to give you real-time suggestions on videos, keywords, ranking and just about everything you need to grow.",
+"details": "TubeBuddy tracks your rankings and compares your analytics to those of your competition on YouTube as well as in Google searches. Also give you real-time suggestions on videos, keywords, ranking and just about everything you need to grow.",
 "browser": true
 },
   {
 "name": "VidIq",
 "url":"https://vidiq.com/",
 "logo":"https://images.ctfassets.net/oqcxjunhepvs/2aWnusBBvm4iAYWWCSiC0a/62ae1fad179f3120621e90570f66c9da/ogvidiq.001.jpg",
-"details": "VidIQ is a video analytics & marketing tool for Youtube publishers. This tool analyzes your Youtube account and gives you meaningful insights that help you to make actionable decisions.",
+"details": "VidIQ is a video analytics & marketing tool for Youtube publishers. This tool analyzes your Youtube account and gives you meaningful insights, monitor keyword scores, views, and other search term metrics all from one place.",
 "browser": true
 },
-  {
-"name": "Semrush",
-"url":"https://www.semrush.com/",
-"logo":"https://www.reliablesoft.net/wp-content/uploads/2015/07/semrush-logo-review.jpg",
-"details": "SEMrush is an SEO tool that does your keyword research, tracks the keyword strategy used by your competition, runs an SEO audit of your blog, looks for backlinking opportunities and lots more.",
-"browser": true
+{
+  "name": "Keywords Everywhere",
+  "url": "https://keywordseverywhere.com/",
+  "logo": "https://keywordseverywhere.com/img/keywords-everywhere-logo.png",
+  "details": "The Keywords Everywhere browser add-on can be easily installed on either Chrome or Firefox. The best part is that we show you monthly search volume, cost per click and competition data of keywords on multiple websites.",
+  "browser": "true"
 },
-  {
+{
+  "name": "Tuber Tools",
+  "url": "https://tubertools.com/",
+  "logo": "https://tubertools.com/wp-content/uploads/2016/01/tuber-tools-youtube-graphics.png",
+  "details": "Tubertools for youtuber where multiple resources can found like Headers, Thumbnail, Motion Graphics etc",
+  "browser": "true"
+},
+{
+  "name": "Social Blade",
+  "url": "https://socialblade.com/",
+  "logo": "https://socialblade.com/images/header-logo.png",
+  "details": "Social Blade is a website that tracks social media statistics and analytics. Social Blade most notably tracks the YouTube platform, but also has analytical information regarding Twitch, Instagram, Twitter, Facebook etc",
+  "browser": "true"
+},
+{
+  "name": "Google Docs",
+  "url": "https://docs.google.com/",
+  "logo": "https://www.gstatic.com/images/branding/product/1x/docs_48dp.png",
+  "details": "Google Docs is Google's browser-based word processor. You can create, edit, and share documents online and access them from any computer with an internet connection. ... Google has made it incredibly easy to share documents across platforms and work on them together in real time from a browser window.",
+  "browser": "true"
+},
+{
+  "name": "Camtasia Video Editor",
+  "url": "https://www.techsmith.com/download/camtasia/",
+  "logo": "https://dl1.cbsistatic.com/i/2016/10/12/a7d61270-e7e7-4d09-82fd-87b3c82cb853/d046511b0017e01ab99f1c8092f57e12/imgingest-378424373870182067.png",
+  "details": "Camtasia is a professional-level video editing software. It have both Screen Record and Edit Features. The software solution provides a good balance of high-quality output, control, and a well-designed user interface, which makes the platform more suitable for web content creators/producers and videographers.",
+  "browser": "true"
+},
+{
+  "name": "Streamlabs",
+  "url": "https://streamlabs.com/",
+  "logo": "https://theme.zdassets.com/theme_assets/948919/d80b722da9edc37805def78a512b90c5772434a6.png",
+  "details": "Created as a utility for those who stream online video games, Streamlabs is a widget that allows its users to collect donations from their fans. The Streamlabs service works with popular platforms, such as Twitch, YouTube, Facebook Live, and Mixer.",
+  "browser": "true"
+},
+{
+  "name": "OBS Studio",
+  "url": "https://obsproject.com/",
+  "logo": "https://obsproject.com/assets/images/new_icon_small.png",
+  "details": "OBS is a free open source software suite that is used for recording and live streaming. OBS is used to capture and record your screen while also capturing audio",
+  "browser": "true"
+},
+{
+  "name": "Microsoft PowerPoint",
+  "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint",
+  "logo": "https://lh3.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M=s180-rw",
+  "details": "PowerPoint is allows you to create and show slides to support a presentation. You can combine text, graphics and multi-media content to create professional presentations.",
+  "browser": "true"
+},
+{
   "name": "YouTube Studio",
   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator",
   "logo": "https://lh3.googleusercontent.com/-OeGNozxvw9RMFUP-9x_qscnCRsz6y4HI2b0JqzkNX7UNcZqR-zdHtg3Ng5zQHqRlw=s180-rw",
