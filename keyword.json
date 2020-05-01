@@ -20,6 +20,20 @@
 "logo":"https://startupxplore.com/uploads/ff8080815e0e987b015e0f8cc4ca004e-large.png",
 "details":"none",
 "browser": false
+},
+  {
+"name": "Semrush",
+"url":"https://www.semrush.com/",
+"logo":"https://www.reliablesoft.net/wp-content/uploads/2015/07/semrush-logo-review.jpg",
+"details": "SEMrush is an SEO tool that does your keyword research, tracks the keyword strategy used by your competition, runs an SEO audit of your blog, looks for backlinking opportunities and lots more.",
+"browser": true
+},
+{
+  "name": "Morningfa- Simplifying YouTube Growth",
+  "url": "https://morningfa.me/",
+  "logo": "https://morningfa.me/img/mf-graph.png",
+  "details": "Morningfame is the ultimate tool for small YouTubers looking to grow their YouTube channels. It integrates with YouTube analytics and from that data it provides actionable tips for maximising your YouTube growth.",
+  "browser": "true"
 }
 ]
 }
