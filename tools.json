@@ -1,0 +1,25 @@
+{
+"items":[
+{
+"name": "TubeBuddy",
+"url":"https://www.tubebuddy.com/",
+"logo":"https://yt3.ggpht.com/a/AATXAJyzCfOqGFbN8Djj-ETt7sRMCNY58AxsALf3kQ=s288-c-k-c0xffffffff-no-rj-mo",
+"details":"details",
+"browser": true
+},
+  {
+"name": "VidIq",
+"url":"https://vidiq.com/",
+"logo":"https://images.ctfassets.net/oqcxjunhepvs/2aWnusBBvm4iAYWWCSiC0a/62ae1fad179f3120621e90570f66c9da/ogvidiq.001.jpg",
+"details":"details",
+"browser": true
+},
+  {
+"name": "Semrush",
+"url":"https://www.semrush.com/",
+"logo":"https://www.reliablesoft.net/wp-content/uploads/2015/07/semrush-logo-review.jpg",
+"details":"details",
+"browser": true
+}
+]
+}
