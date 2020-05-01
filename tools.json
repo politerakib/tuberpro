@@ -20,6 +20,13 @@
 "logo":"https://www.reliablesoft.net/wp-content/uploads/2015/07/semrush-logo-review.jpg",
 "details":"details",
 "browser": true
+},
+  {
+  "name": "YouTube Studio",
+  "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator",
+  "logo": "https://lh3.googleusercontent.com/-OeGNozxvw9RMFUP-9x_qscnCRsz6y4HI2b0JqzkNX7UNcZqR-zdHtg3Ng5zQHqRlw=s180-rw",
+  "details": "The official YouTube Studio app makes it faster and easier to manage your YouTube channels on the go. Check out your latest stats, respond to comments, upload custom video thumbnail images, schedule videos, and get notifications so you can stay connected and productive from anywhere.",
+  "browser": "true"
 }
 ]
 }
